@@ -1,0 +1,4 @@
+ID,customer_ID,title,urgency_code,status_code
+3b23bb4b-4ac7-4a24-ac02-aa10cabd842c,1004155,Solar panel broken,H,N
+3a4b714d-7cb5-4521-88dc-b00305888e28,1004161,Inverter not working,M,A
+3b23bb4b-4ac7-4a24-ac02-aa10cabd842d,1004100,Battery fast,L,I 
